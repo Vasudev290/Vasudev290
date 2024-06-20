@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/Vasu262033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vasu Devu" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/vasu-devu-881774287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vasu Devu" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/vasudev31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vasu Devu" height="30" width="40" /></a>
     <a href="https://www.facebook.com/vj.arjun.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vj.arjun.96" height="30" width="40" /></a>
     <a href="https://www.instagram.com/__itz_vjarjun__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itz_vjarjun__" height="30" width="40" /></a>
     </p>
