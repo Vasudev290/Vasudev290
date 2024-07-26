@@ -3,11 +3,12 @@
 <!-- Title Typing Effect -->
 <h3 align="center"> A passionate Full Stack Web developer and code enthusiast from India.</h3>          
 <img align="right" alt="coding" width="400" 
-  
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s"
 
+  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 Learning Never Stops 🚀<br><br>
+
 - 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP , PYTHON** <br><br>
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
