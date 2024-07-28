@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" 
 
   
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="420" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 - 🌱 Learning Never Stops 🚀<br><br>
 
@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
 - 📫 How to reach me **vasukesavulu@gmail.com** <br><br>
+<img align="right" width="470" height="290" src="https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,9 +22,7 @@
     <a href="https://www.facebook.com/vj.arjun.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vj.arjun.96" height="30" width="40" /></a>
     <a href="https://www.instagram.com/__itz_vjarjun__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itz_vjarjun__" height="30" width="40" /></a>
     </p>
-    
-    
-    
+
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
   <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -41,12 +40,14 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    </div>
-   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+   
 <h3 align="left">Databases :</h3>
 <div align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </div>
+
+ <img align="right" alt="coding" width="480" height="290" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+
 
   <h3 align="left">Hosting :</h3>
 <div align="left">
