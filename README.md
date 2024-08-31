@@ -1,10 +1,12 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ↘️↘️↘️↘️ Hi there... This is Vasu ↙️↙️↙️↙️</h1> 
                                                 
 <!-- Title Typing Effect -->
-<h3 align="center"> A passionate Full Stack Web developer and code enthusiast from India.</h3>          
+<h3 align="center"> A passionate Full Stack Web developer and code enthusiast from India.</h3>      
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Vasudev290&label=Profile%20views&color=0e75b6&style=flat" alt="Vasudev290" /> 
+</p>
 <img align="right" alt="coding" width="400" 
 
-  
 <img align="right" width="420" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 - 🌱 Learning Never Stops 🚀<br><br>
@@ -58,5 +60,14 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vasukesavu9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vasu dev" /></a></p><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasudev290&show_icons=true&locale=en&layout=compact" alt="Vasudev290" /></p>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vasudev290&show_icons=true&locale=en" alt="Vasudev290" />
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudev290&" alt="Vasudev290" /></p>
+</div>
+
+
+
+
 
   
