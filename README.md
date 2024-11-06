@@ -12,7 +12,7 @@
 - 🌱 Learning Never Stops 🚀<br><br>
 
 - 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP , PYTHON** <br><br>
-- 🌱 I’m currently learning **Full Stack, React js & python & Java** <br><br>
+- 🌱 I’m currently learning **Full Stack, React js & python** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
 - 📫 How to reach me **vasukesavulu@gmail.com** <br><br>
 <img align="right" width="470" height="290" src="https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif">
@@ -21,8 +21,6 @@
 <p align="left">
     <a href="https://twitter.com/Vasu262033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vasu Devu" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/vasudev31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vasu Devu" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/vj.arjun.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vj.arjun.96" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/__itz_vjarjun__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itz_vjarjun__" height="30" width="40" /></a>
     </p>
 
 <h3 align="left">Web Tech Stack :</h3>
@@ -38,8 +36,7 @@
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    </div>
    
