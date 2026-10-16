@@ -14,7 +14,7 @@
 - 💬 Major Skills **HTML, CSS, JAVASCRIPT, BOOTSTRAP , PYTHON** <br><br>
 - 🌱 I’m currently learning **Full Stack, React js & python** <br><br>
 - 💬 Ask me about **Web Development** <br><br>
-- 📫 How to reach me **vasukesavulu@gmail.com** <br><br>
+- 📫 How to reach me **vasudevu3103@gmail.com** <br><br>
 <img align="right" width="470" height="290" src="https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif">
 
 <h3 align="left">Connect with me:</h3>
